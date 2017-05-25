@@ -1,1 +1,1 @@
-# hyperom.github.io
+# SUHScomputerclub.github.io
