@@ -47,6 +47,9 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #333;
+    line-height: 1.4em;
     font-size: 1.5em;
 }
 
