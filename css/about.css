@@ -20,13 +20,29 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
+    font-size: 3.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h2 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
-    font-size: 1.5em;
+h3 {
+    font-size: 1.8em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h4 {
+    font-size: 1em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+p#default {
+    font-size: 20px;
     line-height: 1.4em;
-    text-indent: 30px;
+    color: #333;
+}
+p#Indent {
+    font-size: 20px;
+    line-height: 1.4em;
     color: #333;
 }
 footer {
@@ -41,4 +57,17 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+ul { 
+    margin: 20px auto 40px; 
+    font-size: 20px;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+ul li { 
+    margin: 20px auto 40px; 
+    font-size: 20px;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
