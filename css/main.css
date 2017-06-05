@@ -35,12 +35,7 @@ h4 {
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p#default {
-    font-size: 20px;
-    line-height: 1.4em;
-    color: #333;
-}
-p#Indent {
+p {
     font-size: 20px;
     line-height: 1.4em;
     color: #333;
